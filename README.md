@@ -1,6 +1,7 @@
 ## Запуск
 
-`python -m venv venv`  
-`venv/Scripts/Activate`  
-`pip install -r requirements.txt`  
-`uvicorn main:app --reload`  
+- `python -m venv venv`
+- `venv/Scripts/Activate`
+- `pip install -r requirements.txt`
+- `uvicorn main:app --reload`
+- использовать Tuna для проброски портов
